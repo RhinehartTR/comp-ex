@@ -7,7 +7,7 @@ P1 = 0x00;
 /* port1 pin'leri LOW ayarinda, 0
 p1 = port1 */
 
-while(1) // sonsuz dongu
+while(1)
 {
 P1 = 0xFF; // port1 pinlerini HIGH yapip LED'leri yakiyor
 delay(1000);
