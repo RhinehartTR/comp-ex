@@ -20,7 +20,7 @@ delay(1000);
 
 void delay (int d) // gecikme fonksiyonu
 {
-unsigned int i=0; // yerel degisken, sadece bu fonksiyon icin
+unsigned int i=0; 
  
 /* 1000 ms'lik gecikme fonksiyonu icin gereken dongu */
 
